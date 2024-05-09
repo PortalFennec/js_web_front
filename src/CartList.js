@@ -11,7 +11,7 @@ class CartList extends React.Component {
 			<div className="card-hover-shadow-2x mb-3 card">
 				<div className="card-header-tab card-header">
 					<div className="card-header-title font-size-lg text-capitalize font-weight-normal">
-						<i className="fa fa-tasks"></i>&nbsp;Cart
+						<i className="fa fa-shopping-cart"></i>&nbsp;Orders
 					</div>
 				</div>
 			<div className="scroll-area-sm">

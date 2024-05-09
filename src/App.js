@@ -19,7 +19,7 @@ class App extends React.Component {
 	render() {	
 		 return (
 			<div className="row d-flex justify-content-center container">
-				<div className="col-md-8">
+				<div className="col-lg-12">
 					<Provider store={this.props.store}>
 						<Router>
 							<Routes>

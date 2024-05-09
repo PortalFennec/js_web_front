@@ -150,7 +150,7 @@ class CartAddInner extends React.Component {
 							<input type="text" value={this.state.power} onChange={this.onPowerChange} placeholder='Power' className="form-control"/>
 							<input type="text" value={this.state.cooler} onChange={this.onCoolerChange} placeholder='Cooler' className="form-control"/>
 							<input type="text" value={this.state.casing} onChange={this.onCasingChange} placeholder='Casing' className="form-control"/>
-							<input type="text" value={this.state.email} onChange={this.onEmailChange} placeholder='Email' className="form-control"/>
+							<input type="text" value={this.state.email} onChange={this.onEmailChange} placeholder='Email/Phone number' className="form-control"/>
 							<input type="submit" value="Add" className="btn btn-primary"/>
 						</div>
 					</div>
